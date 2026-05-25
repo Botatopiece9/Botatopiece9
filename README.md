@@ -22,7 +22,7 @@ Aspiring computational biologist & drug discovery scientist — bioengineering g
 `AutoDock Vina` `PyRx` `PyMOL` `UCSF Chimera` `Discovery Studio`
 
 **ADMET & cheminformatics**
-`ADMETLab` `SwissADME` `DogScorer`
+`ADMETLab` `SwissADME` `DoGSiteScorer`
 
 ---
 
