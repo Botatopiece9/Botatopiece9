@@ -1,13 +1,13 @@
 # Hi, I'm Alaa Hamid 👋
 
-Aspiring computational biologist & drug discovery scientist — bioengineering graduate bridging wet lab intuition with computational methods.
+Aspiring computational biologist & drug discovery scientist - bioengineering graduate bridging wet lab intuition with computational methods.
 
 ---
 
 ## 🔬 About me
 
 - Bioengineering graduate transitioning into computational biology & drug discovery
-- Experienced in wet lab techniques — I understand the biology behind the data
+- Experienced in wet lab techniques (I understand the biology behind the data)
 - Currently building expertise in structural biology and computer-aided drug design
 - Open to internship and research opportunities in computational drug discovery
 
