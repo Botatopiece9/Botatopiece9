@@ -18,10 +18,13 @@ Aspiring computational biologist & drug discovery scientist - bioengineering gra
 **Languages**
 `Python` `R / RStudio` `Bash / Linux`
 
-**Molecular modeling & CADD**
-`AutoDock Vina` `PyRx` `PyMOL` `UCSF Chimera` `Discovery Studio`
+**Molecular Modeling & Visualization | Protein/ Target Preparation**
+`AutoDock Vina` `PyRx` `PyMOL` `UCSF Chimera` `Discovery Studio` `Protein Plus`
 
-**ADMET & cheminformatics**
+**Compounds Generation**
+`PubChem` `Drugbank` `Zinc database`
+
+**ADMET & Cheminformatics**
 `ADMETLab` `SwissADME` `DoGSiteScorer`
 
 ---
