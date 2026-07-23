@@ -15,7 +15,7 @@ Aspiring computational biologist & drug discovery scientist - bioengineering gra
 
 ## 🛠️ Tools & technologies
 
-**Languages**
+**Languages & Tools**
 `Python` `R / RStudio` `Bash / Linux` `Git/GitHub`
 
 **Molecular Modeling & Visualization | Protein/ Target Preparation**
