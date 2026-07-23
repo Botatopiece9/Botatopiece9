@@ -9,17 +9,17 @@ Aspiring computational biologist & drug discovery scientist - bioengineering gra
 - Bioengineering graduate transitioning into computational biology & drug discovery
 - Experienced in wet lab techniques (I understand the biology behind the data)
 - Currently building expertise in structural biology and computer-aided drug design
-- Open to internship and research opportunities in computational drug discovery
+- Open to collaborations and research opportunities in computational drug discovery
 
 ---
 
 ## 🛠️ Tools & technologies
 
 **Languages**
-`Python` `R / RStudio` `Bash / Linux`
+`Python` `R / RStudio` `Bash / Linux` `Git/GitHub`
 
 **Molecular Modeling & Visualization | Protein/ Target Preparation**
-`AutoDock Vina` `PyRx` `PyMOL` `UCSF Chimera` `Discovery Studio` `Protein Plus`
+`AutoDock Vina` `PyRx` `PyMOL` `UCSF Chimera` `Discovery Studio` `Protein Plus` `AlphaFold 3`
 
 **Compounds Generation**
 `PubChem` `Drugbank` `Zinc database`
